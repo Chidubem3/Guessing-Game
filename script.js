@@ -63,5 +63,3 @@ document.querySelector('.reset').addEventListener("click",()=>{
   localStorage.clear();
   location.reload();
 });
-
-// day 7 no 11
