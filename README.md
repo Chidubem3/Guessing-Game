@@ -1,2 +1,2 @@
-# GuessingGameNumber
+# GuessingGame
 A Guessing Game
